@@ -19,6 +19,6 @@
 ###
 
 <div align="center">
- 
+ <img src="https://raw.githubusercontent.com/calebsv/calebsv/output/snake.svg" alt="Snake animation" />
 </div>
 
