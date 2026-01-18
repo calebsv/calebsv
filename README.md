@@ -1,32 +1,33 @@
-<h1 align="left">Caleb Lira🧑‍💻></h1>
+<h1 align="left">Caleb Lira🧑‍💻</h1>
 
 ###
+
 
 <h2 align="left">✨Sobre mim:</h2>
-<p align="left">Olá, me chamo Caleb Lira e atualmente estudo para ser um grande Front-End, com base na criação e aperfeiçoamento de interfaces visuais limpas e modernas. Dedico-me a aprimorar minhas práticas de desenvolvimento por meio do design interativo e habilidades virtuais. Tudo isso em constante evolução e aprendizado.  </p>
+<p align="left">Olá, eu sou o Caleb Lira e atualmente estudo para ser um grande Front-End, com base na criação e aperfeiçoamento de interfaces visuais limpas e modernas. Dedico-me a aprimorar minhas práticas de desenvolvimento por meio do design interativo e habilidades virtuais. Tudo isso em constante evolução e aprendizado.  </p>
+
+
 
 ###
 
-<h2 align="left">💻Minha pilha tecnológica:</h2>
+
+<h2 align="left">💻Gama de tecnologias:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=html"  />
+ <img src= "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 
 ###
