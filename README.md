@@ -5,15 +5,15 @@
 ###
 
 
-<h2 align="left">✨Sobre mim:</h2>
-<p align="left">Olá, eu sou o Caleb Lira e atualmente estudo para ser um grande Front-End, com base na criação e aperfeiçoamento de interfaces visuais limpas e modernas. Dedico-me a aprimorar minhas práticas de desenvolvimento por meio do design interativo e habilidades virtuais. Tudo isso em constante evolução e aprendizado.  </p>
+<h2 align="left">✨About me: </h2>
+<p align="left">Hello, I'm Caleb Lira, and I'm currently studying to become a great Front-End developer, focusing on creating and improving clean and modern visual interfaces. I dedicate myself to enhancing my development practices through interactive design and virtual skills. All of this is a constant process of evolution and learning.</p>
 
 
 
 ###
 
 
-<h2 align="left">💻Gama de tecnologias:</h2>
+<h2 align="left">Range of technologies 💻:</h2>
 
 
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2>🌐Comunicação</h2>
+<h2>🌐Communication:</h2>
 
 **Email✉️**
 
